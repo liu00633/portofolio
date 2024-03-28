@@ -1,11 +1,13 @@
-.dandelion{
-    width:20%;
-    height:auto;
-}
 
-.banner{
-    /* width:auto;
-    height: 100%; */
-    width:100%;
-    height: auto;
-}
+
+#home{
+    background-image: url(../images/banner1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  background-position:center top;}
+  
+
+  .title{
+    height: 5rem;
+    margin-top: 15rem;
+  }
